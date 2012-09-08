@@ -1,0 +1,8 @@
+||====================================||
+||This is a stupid test file which    ||
+||is about to be encrypted and        ||
+||decrypted using RC4.                ||
+||                                    ||
+||Some free space inbetween,          ||
+||some special characters like @#**#@.||
+||====================================||
